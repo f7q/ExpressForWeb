@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-cli": "^1.2.2"
+  },
+  "name": "WebApplication1",
+  "private": true,
+  "version": "1.0.0"
+}
